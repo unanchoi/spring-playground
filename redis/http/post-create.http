@@ -1,0 +1,7 @@
+POST localhost:8080/api/post
+Content-Type: application/json
+
+{
+    "title": "My first post",
+    "content": "This is my first post"
+}
